@@ -1,0 +1,3 @@
+chainlit
+gpt4all
+textblob
