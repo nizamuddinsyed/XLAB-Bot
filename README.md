@@ -23,9 +23,9 @@ To run the chatbot, you need the following dependencies:
     git clone https://github.com/nizamuddinsyed/XLAB-Bot
 
     cd XLAB-Bot
-    
+
    ```
-2. Download the GPT-4-All pretrained model weights and configuration files. Ensure they are placed in the appropriate directory (e.g., preTrainedModels/).
+2. Download the GPT-4-All pretrained model weights and configuration files. Ensure they are placed in the appropriate directory (e.g., models/).
 3. Install the required Python packages:
 
    ```
@@ -51,7 +51,7 @@ Once the chatbot is running, a new window will open in a browser localhost, you 
 
     User: What's the weather like?
     Chatbot: I'm sorry, I don't have the capability to check the weather. However, I can assist you with a variety of topics. Just let me know what you're interested in!
-    
+  
 ```
 
 ## Customization
